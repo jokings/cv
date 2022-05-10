@@ -21,3 +21,12 @@ h1 {
 h3 {
     color: #488FB1;
 }
+
+a {
+    color: #488FB1;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #66BFBF;
+}
