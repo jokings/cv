@@ -25,6 +25,8 @@ h3 {
 a {
     color: #488FB1;
     text-decoration: none;
+    font-size:20px;
+    padding:5px;
 }
 
 a:hover {
