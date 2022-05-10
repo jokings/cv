@@ -1,5 +1,6 @@
 body {
     background-color: #EAF6F6;
+    margin: 50px;
 }
 
 hr {
@@ -31,4 +32,8 @@ a {
 
 a:hover {
     color: #66BFBF;
+}
+
+.edit {
+    padding: 20px 0 10px;
 }
